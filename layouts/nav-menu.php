@@ -85,7 +85,7 @@
             <li><a href="vision.php" title="">Our Vision</a></li>
 
             <li>
-              <a href="church-story-single.html" title=""
+              <a href="statement-of-faith.php" title=""
                 >Our Statement of Faith</a
               >
             </li>
