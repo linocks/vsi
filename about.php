@@ -65,18 +65,18 @@
 
                         <div class="col-md-6 column">
 
-                            <div class="video">
+                            <div class="profile">
 
-                                <div class="video-img lightbox">
+                                <div class="profile-img lightbox">
 
-                                    <img src="images/resource/video.jpg" alt="" />
+                                    <img src="images/resource/profile.jpg" alt="" />
 
                                     <a href="https://vimeo.com/44867610" title="" data-poptrox="vimeo"><i
                                             class="fa fa-play"></i></a>
 
                                 </div>
 
-                            </div><!-- VIDEO -->
+                            </div><!-- profile -->
 
                         </div>
 

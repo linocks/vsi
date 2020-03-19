@@ -436,7 +436,7 @@
             <div class="col-md-4 column">
               <div class="service-block">
                 <div class="service-image">
-                  <img src="images/resource/worship.jpg" alt="" />
+                  <img src="images/resource/vsi.jpg" alt="" />
 
                   <i class="fa fa-stumbleupon"></i>
                 </div>
